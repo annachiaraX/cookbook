@@ -5,5 +5,6 @@ Ingredients:
 * cilandro
 
 Instructions:
-* mix 
+* mix everything together
+* mash
 
